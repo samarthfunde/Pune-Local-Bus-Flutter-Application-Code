@@ -1,0 +1,24 @@
+{
+    "bus_seats": [
+      {
+        "seat_id": 1,
+        "type": "Male", 
+        "status": "Available"
+      },
+      {
+        "seat_id": 2,
+        "type": "Female", 
+        "status": "Booked"
+      },
+      {
+        "seat_id": 3,
+        "type": "Disabled", 
+        "status": "Available"
+      }
+    ],
+    "total_seats": 40,
+    "available_male": 20,
+    "available_female": 15,
+    "available_disabled": 5
+  }
+  
